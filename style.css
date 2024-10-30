@@ -26,3 +26,22 @@ body {
      gap: 10px;
     }
     
+    /* Estilo do cabeçalho */
+header {
+    font-size: 2rem; /* Aumenta o tamanho do texto do cabeçalho */
+}
+
+/* Estilo para o título da chamada */
+.chamada-texto h1 {
+    font-size: 1.8rem; /* Aumenta o tamanho do título */
+}
+
+/* Estilo para o parágrafo da chamada */
+.chamada-texto p {
+    font-size: 1.5rem; /* Aumenta o tamanho do texto do parágrafo */
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    font-size: 1.6rem; /* Aumenta o tamanho do título da seção */
+}
