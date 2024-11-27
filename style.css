@@ -22,6 +22,7 @@ body {
     .categoria {
         padding-left: 20px;
         padding-right: 20px;
+        color: azure;
     }
     .categoria-videos {
         display: flex;
